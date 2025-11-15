@@ -38,5 +38,5 @@ I am an emerging bioinformatics scientist, aiming towards processing complex bio
 For my professional portfolio, please check the following site (under development):
 
 ### Notes:
-Good work needs time. I am currently making my work public, and some projects may have missing files. 😓 
-Please reach me out if interested in one of my work. Thanks! 😊
+Good work needs time. I am currently making my works public, and some projects may have missing files. 😓 
+Please don't hesitate to reach me out if you have any question. Comments and advices always welcome as well. Thanks! 😊
