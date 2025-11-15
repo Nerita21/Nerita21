@@ -1,4 +1,4 @@
-## Hello Word! I'm Rita
+## Hello Word!
 
 Anyone who loves unique combinations?
 How about mixing biology with software development and data engineering?
