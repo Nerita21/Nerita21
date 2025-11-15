@@ -1,14 +1,14 @@
-## Hello World!
+## Hello World!🌍
 
 Anyone who loves unique combinations?
-How about mixing biology with software development and data engineering?
+How about mixing biology with software development and data engineering? 🧐
 
 I am an emerging bioinformatics scientist, aiming towards processing complex biological data by:
 - creating usable datasets
 - developing tools to process them
 - making them accessible for research
 
-## Story behind me: 
+## 🧭 Story behind me: 
 ### Chapter 1: Someone who has:
 - MSc in Biology: molecular biology + bioinformatics
 - deep interest applying computational methods on biological data
@@ -32,10 +32,11 @@ I am an emerging bioinformatics scientist, aiming towards processing complex bio
 - training/finetuning existing models for image segmentation
 - polishing private repos to make them public
 
-### Chapter 5: ???
+### Chapter 5: ??? 👀
 
 ### Need more info?
 For my professional portfolio, please check the following site (under development):
 
-### Note:
-Good work needs time. I am currently making my work public, and some projects may have missing files. Please reach me out if interested in one of my work. Thanks! :)
+### Notes:
+Good work needs time. I am currently making my work public, and some projects may have missing files. 😓 
+Please reach me out if interested in one of my work. Thanks! 😊
