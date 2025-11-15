@@ -5,20 +5,20 @@ How about mixing biology with software development and data engineering?
 
 I am an emerging bioinformatics scientist, aiming towards processing complex biological data by:
 - creating usable datasets
-- developing tools to process it
-- make accessible for research
+- developing tools to process them
+- making them accessible for research
 
 ## Story behind me: 
 ### Chapter 1: Someone who has:
 - MSc in Biology: molecular biology + bioinformatics
-- Deep interest applying computational methods on biological data
-- The mindset to challenge herself
+- deep interest applying computational methods on biological data
+- the mindset to challenge herself
 
 ### Chapter 2: Experience in:
-- Developing full stack website
-- Generating databases
-- Analysing diverse type of data (sequence, assay, term, image)
-- Working with several AI model to obtain their limitations
+- developing full-stack website
+- generating databases
+- analysing diverse types of data (sequence, assay, term, image)
+- working with several AI models to explore their capabilities and limitations
 
 ### Chapter 3: No scientist without research interest:
 - everything related to RNA (localization, stability, gene regulation)
@@ -26,12 +26,14 @@ I am an emerging bioinformatics scientist, aiming towards processing complex bio
 - microscopes and imaging
 - genetic engineering and probe design
 
-### Chapter 4: Currently work on gaining more knowledge in:
-- Nextflow automatisation
-- Web/data security
-- Training/finetuning exsisting models for image segmentation
-- Polishing private repos to make them public
+### Chapter 4: Currently gaining more knowledge in:
+- Nextflow automation
+- web/data security
+- training/finetuning existing models for image segmentation
+- polishing private repos to make them public
 
 ### Need more info?
-For professional portfolio, please check the following site: (under development)
+For my professional portfolio, please check the following site (under development):
 
+### Note:
+Good work needs time. I am currently making my work public, and some projects may have missing files. Please reach me out if interested in one of my work. Thanks! :)
