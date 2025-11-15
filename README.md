@@ -1,16 +1,36 @@
-## Hi, I'm Rita!
+## Hello Word! I'm Rita
 
-<!--
-**Nerita21/Nerita21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Anyone who loves unique combinations?
+How about mixing biology with software development and data engineering?
 
-Here are some ideas to get you started:
+I am an emerging bioinformatics scientist, aiming towards processing complex biological data by:
+- creating usable datasets
+- developing tools to process it
+- make accessible for research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Story behind me: 
+### Chapter 1: Someone who has:
+- MSc in Biology: molecular biology + bioinformatics
+- Deep interest applying computational methods on biological data
+- The mindset to challenge herself
+
+### Chapter 2: Experience in:
+- Developing full stack website
+- Generating databases
+- Analysing diverse type of data (sequence, assay, term, image)
+- Working with several AI model to obtain their limitations
+
+### Chapter 3: No scientist without research interest:
+- everything related to RNA (localization, stabiliy, gene regulation)
+- spatial omics data
+- microscopes and imaging
+- genetic engineering and probe design
+
+### Chapter 4: Currenty work on gaining more knowledge in:
+- Nextflow automatisation
+- Web/data security
+- Training/finetuning exsisting models for image segmentation
+
+### Need more info?
+For professional portfolio, please check the following site: (under development)
+
