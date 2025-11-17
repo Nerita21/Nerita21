@@ -30,7 +30,7 @@ I am an emerging bioinformatics scientist, aiming towards processing complex bio
 - Nextflow automation
 - web/data security
 - training/finetuning existing models for image segmentation
-- polishing private repos to make them public
+- polishing previous works to make them public
 
 ### Chapter 5: ??? 👀
 
