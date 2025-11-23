@@ -1,7 +1,7 @@
 ## Hello World!🌍
 
 Anyone who loves unique combinations?
-How about mixing biology with software development and data engineering? 🧐
+How about mixing biology with programming and data analysis? 🧐
 
 I am an emerging bioinformatics scientist, aiming towards processing complex biological data by:
 - creating usable datasets
