@@ -4,8 +4,8 @@ Anyone who loves unique combinations?
 How about mixing biology with programming and data analysis? 🧐
 
 I am an emerging bioinformatics scientist, aiming towards processing complex biological data by:
-- creating usable datasets
-- developing tools to process them
+- creating structured datasets
+- developing analysis piplines
 - making them accessible for research
 
 ## 🧭 Story behind me: 
