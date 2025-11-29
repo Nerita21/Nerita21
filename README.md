@@ -1,4 +1,4 @@
-## Hi! Wellcome to my GitHub page!
+## Hi! Welcome to my GitHub page!
 
 Anyone who loves unique combinations?
 How about mixing biology with programming and data analysis? 🧐
