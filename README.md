@@ -10,30 +10,22 @@ I am an emerging bioinformatics scientist, aiming towards processing complex bio
 
 ## Story behind me: 
 ### Chapter 1: Someone who has:
-- MSc in Biology: molecular biology + bioinformatics
+- knowledge molecular biology + bioinformatics
 - deep interest applying computational methods on biological data
 - the mindset to challenge herself
-- aim to follow FAIR data principles
 
 ### Chapter 2: Experience in:
 - developing full-stack website
-- generating database
+- working with database
 - analysing diverse types of data (sequence, assay, term, image)
 - working with several AI models to explore their capabilities and limitations
 
-### Chapter 3: No scientist without research interest:
-- RNA biology (localization, stability, gene regulation)
-- spatial transcriptomics 
-- microscopes and imaging
-- genetic engineering and probe design
-
-### Chapter 4: Currently gaining more knowledge in:
+### Chapter 3: Currently gaining more knowledge in:
 - Nextflow automation
 - web/data security
 - training/finetuning existing models for image segmentation
-- polishing projectfor public release
 
-### Chapter 5: ??? 👀
+### Chapter 4: ??? 👀
 
 ### Need more info?
 For my professional portfolio, please check the following site (under development):
